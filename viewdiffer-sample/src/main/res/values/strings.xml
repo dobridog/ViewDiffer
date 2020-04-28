@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ViewDiffer</string>
+    <string name="title_item_detail">Edit details</string>
+    <string name="fab_checked_label">checked</string>
+    <string name="fab_unchecked_label">un-checked</string>
+    <string name="item_detail_description">Description</string>
+    <string name="item_list_title">Select item to edit</string>
+    <string name="item_list_subtitle">This activity will highlight view values that were updated by another activity.</string>
+</resources>

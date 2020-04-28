@@ -1,0 +1,3 @@
+rootProject.name='ViewDiffer'
+include ':viewdiffer-sample'
+include ':viewdiffer-lib'
