@@ -1,5 +1,6 @@
 # ViewDiffer
-Helps users discover changes made to views from another activity.
+Highlights changes made to views from another context. It is done in a generic way by travering the view hierarchy and comparing snapshots of view's values. 
+It can be applied to any substructure in the root view tree. 
 
 ![viewdiffer demo](https://github.com/dobridog/ViewDiffer/blob/master/ViewDifferDemo.gif)
 
